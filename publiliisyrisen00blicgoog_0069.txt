@@ -1,0 +1,28 @@
+ABBREVIATIONS.
+
+Be=Bentley
+Bo=B0the
+Bu=Buecheler
+E1=Erasmus
+Fa=Fabricius
+Fr=Friedrich
+
+’ G0=G0d0f1edus
+G1=Gruter
+
+Hg=Hartung
+Mr=Meyer
+
+Or=Orelli
+Pn=Panthaleon
+Ps=Pithoeus
+Qu=Quicherat
+Re=Reinhold
+Ri=Ribbeck
+Sc=Scaliger
+Sp=Spengel
+St=H. Stephanus
+W0=Woelfflin
+
+ 
+
